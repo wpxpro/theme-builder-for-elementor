@@ -4,30 +4,26 @@ Take your Elementor Website game to the next level by creating custom layouts fo
 
 ### OUR [FREE ELEMENTOR THEME BUILDER](https://elementor.wpxpro.com/theme-builder/) FEATURES
 
-Header
-
-Footer
-
-Singular Layouts:
-- Single Post
-- Single Page
-- Sidebar
-- Archive (Blog) page
-- 404 page
-- Single Page
-- Sidebar
-- WooCommerce single product page
-- WooCommerce cart page
-- WooCommerce checkout page
-- WooCommerce account page
-
-Archive Layouts
-- Blog Post
-- Categories
-- Tag Archives
-- Author Archive
-
-One-click Template Importer
+- Header
+- Footer
+- Singular Layouts:
+  - Single Post
+  - Single Page
+  - Sidebar
+  - Archive (Blog) page
+  - 404 page
+  - Single Page
+  - Sidebar
+  - WooCommerce single product page
+  - WooCommerce cart page
+  - WooCommerce checkout page
+  - WooCommerce account page
+- Archive Layouts
+  - Blog Post
+  - Categories
+  - Tag Archives
+  - Author Archive
+- One-click Template Importer
 
 Before download any theme builder please check our detailed informative blog with real time comparison about [Best Elementor Theme Builders of 2022](https://elementor.wpxpro.com/4-best-elementor-theme-builders-free-paid/)
 
@@ -117,11 +113,11 @@ Try it now, design your websites the way you like, and work the way only profess
 
 Xpro Elementor Theme Builder – FREE gives you complete design freedom over every essential component of your website. Nothing is off-limits and you can create out-of-the-box designs for each section. It’s surprisingly easy, fun, and time-saving.
 
-**One-click Import**
+#### One-click Import
 
 Our Theme Builder For Elementor comes with pre-designed headers, footers, posts and pages, archives, and 404 pages. Simply Import them with a single click and use them anywhere on a website.
 
-**Header**
+#### Header
 
 Design headers, make them sticky, set display conditions, and create a fully personalized web experience for users.
 
@@ -136,7 +132,7 @@ Some salient features of using Xpro Elementor Theme Builder for creating amazing
 
 Check Detailed Documentation [How to Use Xpro Elementor Theme Builder to Design Custom Headers](https://elementor.wpxpro.com/docs/xpro-elementor-theme-builder/layouts/header/)
 
-**Footer**
+#### Footer
 
 Design your perfect footers and assign them to individual pages or a specific category. It’s super easy.
 
@@ -152,7 +148,7 @@ Check Detailed Documentation [How to Use Xpro Elementor Theme Builder to Design 
 
 ### ADVANCED FEATURES TO BUILD ANY GLOBAL SITE ELEMENT
 
-**Singular**
+#### Singular
 
 Design each part of your product page or blog post. Assign user roles, customize display locations, and more.
 
@@ -168,7 +164,7 @@ Some salient features of creating singular layouts using Xpro Theme Builder are:
 
 Check Detailed Documentation [How to Use Xpro Elementor Theme Builder to Design a Single Post](https://elementor.wpxpro.com/docs/xpro-elementor-theme-builder/layouts/singular/)
 
-**Archives**
+#### Archives
 
 Design your main blog page the way you like. It’s super easy to create sidebars, customize category pages of your store, and more.
 
