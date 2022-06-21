@@ -1,6 +1,6 @@
 # Best Theme Builder for Elementor
 
-Elevate your [Elementor](https://elementor.com/) web design experience by creating custom layouts for post types, blog archives, WooCommerce products & categories, search pages, 404 pages, coming soon pages, and much more. With this powerful [free theme builder for Elementor](https://wordpress.org/plugins/xpro-theme-builder/), you can personalize your WooCommerce store experience by changing the default layout to match any style you want.
+Elevate your <a href="https://elementor.com/" target="_blank">Elementor</a> web design experience by creating custom layouts for post types, blog archives, WooCommerce products & categories, search pages, 404 pages, coming soon pages, and much more. With this powerful [free theme builder for Elementor](https://wordpress.org/plugins/xpro-theme-builder/), you can personalize your WooCommerce store experience by changing the default layout to match any style you want.
 Xpro Elementor Theme Builder allows you to create a custom header and footer templates too. The plugin offers free Elementor header and footer templates to let you quickly customize them in no time. Unlike other theme builders, this feature-rich Elementor theme builder comes at no cost, with free theme builder widgets, a sticky header option, and much more.
 
 ## What You Can Customize Using Free Elementor Theme Builder
