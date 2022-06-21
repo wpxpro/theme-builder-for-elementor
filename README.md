@@ -103,7 +103,7 @@ Liked our free Theme Builder for Elementor? Give us a generous rating on [WordPr
 ## FAQs
 
 <details><summary>Is Elementor Pro Theme Builder free?</summary>
-No, Elementor theme builder only comes with the Pro version of Elementor at a starting price of $49 (1 site). However, our [best alternative to Elementor Pro](https://wordpress.org/plugins/xpro-theme-builder/), the Xpro Elementor Theme Builder is totally Free. It gives you the same customization options (even more) as compared to Elementor Pro. Read the complete details [here](https://elementor.wpxpro.com/4-best-elementor-theme-builders-free-paid/).</details>
+No, Elementor theme builder only comes with the Pro version of Elementor at a starting price of $49 (1 site). However, our <a href="https://wordpress.org/plugins/xpro-theme-builder/" target="_blank">best alternative to Elementor Pro</a>, the Xpro Elementor Theme Builder is totally Free. It gives you the same customization options (even more) as compared to Elementor Pro. Read the complete details <a href="https://elementor.wpxpro.com/4-best-elementor-theme-builders-free-paid/" target="_blank">here</a>.</details>
 
 <details><summary>Does this Free Theme Builder for Elementor Work with all themes?</summary>
 Xpro Elementor Theme Builder is fully compatible with popular WordPress themes like [Xpro](https://wordpress.org/themes/xpro/), Hello, GeneratePress, and Astra. More themes will be compatible with the plugin soon. See [details](https://elementor.wpxpro.com/4-best-elementor-theme-builders-free-paid/) of themes compatible with the free Elementor theme builder.</details>
