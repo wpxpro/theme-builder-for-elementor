@@ -71,6 +71,7 @@ class Astra_Theme_Compatibility {
 
 			$this->override_with_post_meta( xpro_theme_builder_get_singular_id() );
 
+			add_filter( 'page_template', array( $this, 'empty_template' ) );
 			add_filter( 'single_template', array( $this, 'empty_template' ) );
 			add_filter( '404_template', array( $this, 'empty_template' ) );
 			add_filter( 'frontpage_template', array( $this, 'empty_template' ) );

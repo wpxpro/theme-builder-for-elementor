@@ -49,6 +49,7 @@ class Xpro_Default_Compatibility {
 
 		if ( xpro_theme_builder_is_singular_enabled() ) {
 
+			add_filter( 'page_template', array( $this, 'empty_template' ) );
 			add_filter( 'single_template', array( $this, 'empty_template' ) );
 			add_filter( '404_template', array( $this, 'empty_template' ) );
 			add_filter( 'frontpage_template', array( $this, 'empty_template' ) );

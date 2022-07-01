@@ -55,6 +55,7 @@ class Xpro_Theme_Compatibility {
 			remove_action( 'xpro_content_after', 'xpro_construct_content_after' );
 			remove_action( 'xpro_title_wrapper', 'xpro_construct_title_wrapper' );
 			remove_action( 'xpro_content_loop', 'xpro_construct_content_loop' );
+			add_filter( 'page_template', array( $this, 'empty_template' ) );
 			add_filter( 'single_template', array( $this, 'empty_template' ) );
 			add_filter( '404_template', array( $this, 'empty_template' ) );
 			add_filter( 'frontpage_template', array( $this, 'empty_template' ) );

@@ -57,6 +57,7 @@ class Xpro_GeneratePress_Compatibility {
 			update_post_meta( xpro_theme_builder_get_singular_id(), '_generate-disable-headline', 'true' );
 
 			add_filter( 'generate_page_class', array( $this, 'generate_do_page_container_classes' ) );
+			add_filter( 'page_template', array( $this, 'empty_template' ) );
 			add_filter( 'single_template', array( $this, 'empty_template' ) );
 			add_filter( '404_template', array( $this, 'empty_template' ) );
 			add_filter( 'frontpage_template', array( $this, 'empty_template' ) );
